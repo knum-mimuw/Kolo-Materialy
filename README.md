@@ -1,7 +1,16 @@
 # Materiały Koła Naukowego Uczenia Maszynowego UW
 
 ## Materiały ze spotkań (lista niekompletna)
-* linki wkrótce
+
+### 2017/2018
+
+* [Uczenie Maszynowe i Deep Learning](materials/2017_2018/UczenieMaszynoweDeepLearning_MMacias.odp) - autor: Mateusz Macias
+* [XGBoost](materials/2017_2018/XGBoost_JTyrek.pdf) - autor: Jakub Tyrek, dodatkowe materiały: [Jupyter Notebook](materials/2017_2018/src/XGBoost_JTyrek.ipynb)
+
+### 2016/2017
+
+* [Konwolucyjne Sieci Neuronowe](materials/2016_2017/KonwolucyjneSieciNeuronowe_MMacias.odp) - autor: Mateusz Macias
+* [Random Forest - Lasy losowe](materials/2016_2017/RandomForest_KCzechowski.pdf) - autor: Konrad Czechowski
 
 ## Polecane linki zewnętrzne
 
