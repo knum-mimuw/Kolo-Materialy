@@ -5,8 +5,8 @@
 ### 2017/2018
 
 * [Uczenie Maszynowe i Deep Learning](materials/2017_2018/UczenieMaszynoweDeepLearning_MMacias.odp) - autor: __Mateusz Macias__
-* [scikit-learn](https://github.com/PrzemekPobrotyn/sklearn_pipelines_talk/tree/master/figures) - autor: [Przeme Pobortyn](https://github.com/PrzemekPobrotyn)
-* [Word2Vec - explore](https://github.com/lamyiowce/word2vec-explore) - autor: [Julia Baźińska](https://github.com/lamyiowce)
+* [scikit-learn](https://github.com/PrzemekPobrotyn/sklearn_pipelines_talk/tree/master/figures) - autor: [Przemek Pobortyn](https://github.com/PrzemekPobrotyn)
+* [Word2Vec - explore](https://github.com/lamyiowce/word2vec-explore) - autor: [Julia Bazińska](https://github.com/lamyiowce)
 * [XGBoost](materials/2017_2018/XGBoost_JTyrek.pdf) - autor: __Jakub Tyrek__, dodatkowe materiały: [Jupyter Notebook](materials/2017_2018/src/XGBoost_JTyrek.ipynb)
 
 ### 2016/2017
