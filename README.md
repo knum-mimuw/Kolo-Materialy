@@ -6,7 +6,7 @@
 
 * [Uczenie Maszynowe i Deep Learning](materials/2017_2018/UczenieMaszynoweDeepLearning_MMacias.odp) - autor: __Mateusz Macias__
 * [Przegląd gradientowych metod optymalizacji](https://github.com/PrzemekPobrotyn/optimizers-comparison-talk) - autor: [Przemek Pobrotyn](https://github.com/PrzemekPobrotyn)
-* [scikit-learn](https://github.com/PrzemekPobrotyn/sklearn_pipelines_talk/tree/master/figures) - autor: [Przemek Pobrotyn](https://github.com/PrzemekPobrotyn)
+* [scikit-learn](https://github.com/PrzemekPobrotyn/sklearn_pipelines_talk/blob/master/sklearn%20presentation.ipynb) - autor: [Przemek Pobrotyn](https://github.com/PrzemekPobrotyn)
 * [Word2Vec - explore](https://github.com/lamyiowce/word2vec-explore) - autor: [Julia Bazińska](https://github.com/lamyiowce)
 * [XGBoost](materials/2017_2018/XGBoost_JTyrek.pdf) - autor: __Jakub Tyrek__, dodatkowe materiały: [Jupyter Notebook](materials/2017_2018/resources/XGBoost_JTyrek.ipynb)
 * [Deep Reinforcement Learning for Conversational Agents](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/drl_warsaw.pdf) ([abstrakt](materials/2017_2018/abstract/DeepReinforcementLearningForConversationalAgents_PBudzianowski.md)) - autor: [Paweł Budzianowski](https://github.com/budzianowski)
