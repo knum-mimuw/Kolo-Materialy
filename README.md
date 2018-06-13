@@ -9,7 +9,7 @@
 * [scikit-learn](https://github.com/PrzemekPobrotyn/sklearn_pipelines_talk/blob/master/sklearn%20presentation.ipynb) - autor: [Przemek Pobrotyn](https://github.com/PrzemekPobrotyn)
 * [Word2Vec - explore](https://github.com/lamyiowce/word2vec-explore) - autor: [Julia Bazińska](https://github.com/lamyiowce)
 * [XGBoost](materials/2017_2018/XGBoost_JTyrek.pdf) - autor: __Jakub Tyrek__, dodatkowe materiały: [Jupyter Notebook](materials/2017_2018/resources/XGBoost_JTyrek.ipynb)
-* [Deep Reinforcement Learning for Conversational Agents](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/drl_warsaw.pdf) ([abstrakt](materials/2017_2018/abstract/DeepReinforcementLearningForConversationalAgents_PBudzianowski.md)) - autor: [Paweł Budzianowski](https://github.com/budzianowski)
+* [Deep Reinforcement Learning for Conversational Agents](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/drl_warsaw.pdf) ([abstrakt](#deep-reinforcement-learning-for-conversational-agents-by-pawe%C5%82-budzianowski)) - autor: [Paweł Budzianowski](https://github.com/budzianowski)
 
 ### 2016/2017
 
