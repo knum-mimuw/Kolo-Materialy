@@ -2,6 +2,13 @@
 
 ## Materiały ze spotkań (lista niekompletna)
 
+### 2018/2019
+
+#### Warsztaty
+Materiały do warsztatów znajdują się w podlinkowanym repozytorium
+* [Uczenie Maszynowe - wprowadzenie dla początkujących](https://github.com/KNUMUW/MLTutorial) - warsztaty, prowadzący: __Mateusz Macias__
+* [Uczenie Maszynowe - deep learning](https://github.com/KNUMUW/MLTutorial) - warsztaty, prodaczący: __Mateusz Macias__
+
 ### 2017/2018
 
 * [Uczenie Maszynowe i Deep Learning](materials/2017_2018/UczenieMaszynoweDeepLearning_MMacias.odp) - autor: __Mateusz Macias__
